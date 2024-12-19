@@ -52,7 +52,9 @@ The **U.S. State Guessing Game** is an interactive Python project built using th
    ```bash
    python main.py
    ```
-📸 Screenshots
+---
+
+## 📸 Screenshots
 Application Interface:
 ![State Guessing Game UI](image/Screenshot%202024-12-19%20215854.png)  
 
