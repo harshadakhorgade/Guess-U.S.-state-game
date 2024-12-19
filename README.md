@@ -54,7 +54,7 @@ The **U.S. State Guessing Game** is an interactive Python project built using th
    ```
 📸 Screenshots
 Application Interface:
-(image/Screenshot%202024-12-19%20215854.png)
+![State Guessing Game UI](image/Screenshot%202024-12-19%20215854.png)  
 
    
 
