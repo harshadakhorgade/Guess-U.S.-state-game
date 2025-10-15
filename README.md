@@ -55,11 +55,13 @@ The **U.S. State Guessing Game** is an interactive Python project built using th
 ---
 
 
+
+
+
+
 ## 📸 Screenshots
-
-Livestream Video Screenshot:  
-![Livestream Screenshot](screenshots/livestream.png)
-
+Application Interface: 
+![State Guessing Game UI](image/Screenshot%202024-12-19%20215854.png)
    
 
 Enjoy the game and see how many states you can guess correctly! 🌟
